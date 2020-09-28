@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Zoe&#39;s Experimental Files" ] },
+    "summary": { "en": [ "Video hosted on Internet Archive" ] },
+    "items": [
+    ]
+}
