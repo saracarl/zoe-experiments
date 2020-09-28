@@ -1,0 +1,218 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas/Fake-Annotations.json",
+  "type": "AnnotationPage",
+  "label": "Fake Annotations",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas/Fake-Annotations-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduction",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "﻿0.842000,33.078555"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas/Fake-Annotations-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Timestamp of first recording: 16:00",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "33.679983,36.80741"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas/Fake-Annotations-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "First unmodulated signal recording",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "54.729973"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas/Fake-Annotations-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Timestamp of second recording: 23:20",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "56.774829"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas/Fake-Annotations-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Second unmodulated signal recording",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "57.49654,74.456820"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas/Fake-Annotations-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Timestamp of third recoring: 02:30",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "75.058248,76.862533"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas/Fake-Annotations-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Third unmodulated signal recording",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "103.445663"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas/Fake-Annotations-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Timestamp of fourth recording: 05:50",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "106.091947"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas/Fake-Annotations-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Fourth unmodulated signal recording",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "106.693376,127.743365"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas/Fake-Annotations-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Conclusion",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "127.743365,162.746491"
+        }
+      }
+    }
+  ]
+}
