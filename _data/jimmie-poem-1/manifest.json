@@ -42,8 +42,8 @@
                 "motivation": "painting",
                 "body": {
                   "id": "https://archive.org/download/kindergarten-teacher-jimmie-poem-1/Kindergarten%20Teacher%20Jimmie%20Poem%201.mp4",
-                  "type": "Sound",
-                  "format": "audio/mp3",
+                  "type": "Video",
+                  "format": "audio/mp4",
                   "duration": 33
                 },
                 "target": "https://saracarl.github.io/zoe-experiments/jimmie-poem-1/canvas-1/canvas"
